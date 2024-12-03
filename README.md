@@ -1,6 +1,4 @@
 
-![Visitor Count](https ://profile-counter.glitch.me/verdrinken/count.svg)
-
 Hello, World! 👋
 I’m Matei, a student on a journey to discover what I love about computer science. Right now, I’m exploring different areas and learning as much as I can. 
 My current setup often involves a Linux terminal and lots of trial and error!

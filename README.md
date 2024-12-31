@@ -18,4 +18,4 @@ Boxing whenever i have the time. 🥊
 
 📬 Let’s Connect
 
-Instagram: @mxtei
+Instagram: @mxtei_
